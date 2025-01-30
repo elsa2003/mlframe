@@ -1,0 +1,9 @@
+database:
+  dbname: "dev"
+
+tardis:
+  key: ""
+  
+data:
+  data_dir: "/root/inovest/mlframework/data"
+  symbols: ["DOGEUSDT"]

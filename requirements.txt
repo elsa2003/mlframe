@@ -1,0 +1,16 @@
+joblib==1.4.2
+lightgbm==4.5.0
+matplotlib==3.10.0
+numpy==2.2.1
+pandas==2.2.3
+polars==1.17.1
+python_dateutil==2.9.0.post0
+python_dateutil==2.9.0
+PyYAML==6.0.2
+scikit_learn==1.6.0
+setuptools==72.1.0
+tardis_dev==2.0.0a14
+tensorboardX==2.6.2.2
+torch==2.5.1
+tqdm==4.67.1
+typing_extensions==4.12.2
